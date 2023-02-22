@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "latest",
+    "@sveltejs/adapter-netlify": "^2.0.5",
     "@sveltejs/kit": "latest",
     "eslint-config-custom": "workspace:*",
     "svelte": "^3.44.0",
